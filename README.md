@@ -2,13 +2,13 @@
 <h4>Como configurar Maven no PC</h4>
 
 <h4>1) Primeiro</h4>
-Precisa estar com jdk(java) 11 rodando no seu pc.
+Precisa estar com jdk(java) 11 rodando no seu pc. </br>
 <a href="https://drive.google.com/file/d/1PLhyjuTTEDB7DMFPobHB8lPlqKT0CUCp/view?usp=sharing">JDK 11</a>
 </br> - Pode clicar com direito\Salvar link como.
 </br>
 <h4>2) Segundo</h4>
 Baixe o zip abaixo e descompacte no seu c:\ </br>
-<a href="apache-maven-3.6.3.zip">Maven</a>
+<a href="https://drive.google.com/file/d/15KpIEyJzl768fm_WM538Ttu8WAxPMmUO/view?usp=sharing">Maven</a>
 </br> - Pode clicar com direito\Salvar link como.
 </br>
 <h4>3) Terceiro - Configurar as variaveis de ambiente do windows</h4>
