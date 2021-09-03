@@ -9,7 +9,7 @@ Baixe o zip abaixo e descompacte no seu c:\ </br>
 </br> - Pode clicar com direito\Salvar link como.
 </nr>
 <h4>3) Terceiro - Configurar as variaveis de ambiente do windows</h4>
-O local </br>
+O local para colocar a pasta</br>
 <img src="olocal.png"> </br>
 Nas Variaveis de ambiente: </br>
 <img src="java_home.png"> </br>
