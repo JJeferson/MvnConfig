@@ -3,4 +3,4 @@
 
 <h4>Primeiro</h4>
 Baixe o zip e descompacte no seu c:\
-<a href=".apache-maven-3.6.3.zip">Maven</a>
+<a href="apache-maven-3.6.3.zip">Maven</a>
