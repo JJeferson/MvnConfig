@@ -18,3 +18,11 @@ Nas Variaveis de ambiente: </br>
 <img src="java_home.png"> </br>
 <img src="maven_home.png"> </br>
 <img src="path.png"> </br>
+-Depois disso pode testar. </br>
+Abra o CMD como administrador da maquina e rode o comando </br>
+mvn -version
+</br>
+</br>
+
+Deve aparecer </br>
+<img src="mvn_version.png"> </br>
