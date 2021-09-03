@@ -3,11 +3,14 @@
 
 <h4>1) Primeiro</h4>
 Precisa estar com jdk(java) 11 rodando no seu pc.
+<a href="https://drive.google.com/file/d/1PLhyjuTTEDB7DMFPobHB8lPlqKT0CUCp/view?usp=sharing">JDK 11</a>
+</br> - Pode clicar com direito\Salvar link como.
+</br>
 <h4>2) Segundo</h4>
 Baixe o zip abaixo e descompacte no seu c:\ </br>
 <a href="apache-maven-3.6.3.zip">Maven</a>
 </br> - Pode clicar com direito\Salvar link como.
-</nr>
+</br>
 <h4>3) Terceiro - Configurar as variaveis de ambiente do windows</h4>
 O local para colocar a pasta</br>
 <img src="olocal.png"> </br>
