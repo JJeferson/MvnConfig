@@ -9,4 +9,9 @@ Baixe o zip abaixo e descompacte no seu c:\ </br>
 </br> - Pode clicar com direito\Salvar link como.
 </nr>
 <h4>3) Terceiro - Configurar as variaveis de ambiente do windows</h4>
-<img src="olocal.png">
+O local </br>
+<img src="olocal.png"> </br>
+Nas Variaveis de ambiente: </br>
+<img src="java_home.png"> </br>
+<img src="maven_home.png"> </br>
+<img src="path.png"> </br>
